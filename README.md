@@ -1,13 +1,15 @@
 ## Boas vindas ao meu perfil 🖐️
 
 Me chamo Anthony Steffen e sou apaixonado por tecnologia, ciência e também por mudar a vida das pessoas através da programação.
-
 <div align="center">
+<br>
 <img src="https://avatars.githubusercontent.com/u/89876617?s=400&u=6e5a1f4cd0fbbff44cb2e04318aa1b7097604418&v=4" width="250px" />
 </div>
 
 
 <br>
+
+<!-- SOCIAL MIDIA -->
 <div align="center">
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_anthony.steffen_)
@@ -15,9 +17,9 @@ Me chamo Anthony Steffen e sou apaixonado por tecnologia, ciência e também por
 [![Twiter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/4nth0ny_Steffen)
   <a href="mailto:anthony.steffen@outlook.com.br" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank" ></a>  
 </div>  
-<br>
+
 <!-- GITHUB STATUS -->
-<div style="display: inline_block">
+<div style="display: inline_block align="center"">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anthony-steffen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony-steffen&layout=compact&langs_count=10&theme=dark"/>  
 
@@ -26,7 +28,7 @@ Me chamo Anthony Steffen e sou apaixonado por tecnologia, ciência e também por
 
 <br>
 <div align="center">
-<h2> Tecnologias que eu utilizo no meu dia </h2>
+<h2> Tecnologias que utilizo no meu dia </h2>
 </div>
 
 <div style="display: inline_block">
@@ -37,8 +39,8 @@ Me chamo Anthony Steffen e sou apaixonado por tecnologia, ciência e também por
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-525252?style=for-the-badge&logo=react&logoColor=31FAFB" />
   <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img align="center" alt="testin library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
   <img align="center" alt="jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img align="center" alt="testin library" src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" />
    
 </div><br/>
 
