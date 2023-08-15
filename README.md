@@ -1,6 +1,8 @@
 ## Boas vindas ao meu perfil 🖐️
 
-Primeiramente eu amo codar! Sou um desenvolvedor proativo e comprometido com o que faço. Sempre busco aprender mais para entregar soluções mais sofisticadas e inteligentes que atendam ao que é solicitado. 
+Primeiramente eu amo codar! 
+Me chamo Anthony Steffen, sou um desenvolvedor proativo e comprometido com o que faço. 
+Sempre busco aprender mais para entregar soluções mais sofisticadas e inteligentes que atendam ao que é solicitado. 
 
 Estou matriculado no curso de desenvolvimento Web full-stack na Trybe onde recentemente conclui o curso de Front-End.
 Neste curso tive a oportunidade realizar diversos projetos com as tecnologias mais atuais, tais como:
