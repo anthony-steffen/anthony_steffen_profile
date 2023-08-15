@@ -4,8 +4,8 @@ Primeiramente eu amo codar!
 Me chamo Anthony Steffen, sou um desenvolvedor proativo e comprometido com o que faço.<br> 
 Sempre busco aprender mais para entregar soluções mais sofisticadas e inteligentes que atendam ao que é solicitado. 
 
-Estou matriculado no curso de desenvolvimento Web full-stack na Trybe onde recentemente conclui o curso de Front-End.
-Neste curso tive a oportunidade realizar diversos projetos com as tecnologias mais atuais, tais como:
+Estou matriculado no curso de desenvolvimento Web full-stack na Trybe onde recentemente conclui o curso de Front-End.<br> 
+Neste curso, tive a oportunidade realizar vários projetos com diversas tecnologias atuais, tais como:
 HTML5
 CSS3
 JavaScript
