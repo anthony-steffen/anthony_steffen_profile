@@ -1,6 +1,21 @@
 ## Boas vindas ao meu perfil 🖐️
 
-Me chamo Anthony Steffen e sou apaixonado por tecnologia, ciência e também por mudar a vida das pessoas através da programação.
+Primeiramente eu amo codar! Sou um desenvolvedor proativo e comprometido com o que faço. Sempre busco aprender mais para entregar soluções mais sofisticadas e inteligentes que atendam ao que é solicitado. 
+
+Estou matriculado no curso de desenvolvimento Web full-stack na Trybe onde recentemente conclui o curso de Front-End.
+Neste curso tive a oportunidade realizar diversos projetos com as tecnologias mais atuais, tais como:
+HTML5
+CSS3
+JavaScript
+ReactJs
+Redux
+ContextApi
+Jest
+TestingLibrary
+
+Além de também trabalhar com metodologias ágeis e boas práticas!
+
+
 <div align="center">
 <br>
 <img src="https://avatars.githubusercontent.com/u/89876617?s=400&u=6e5a1f4cd0fbbff44cb2e04318aa1b7097604418&v=4" width="250px" />
